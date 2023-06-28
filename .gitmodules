@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SARP.compo"]
 	path = SARP.compo
 	url = https://github.com/cran/SARP.compo
-	shallow = true
-	registered = true
 [submodule "SARP.moodle"]
 	path = SARP.moodle
 	url = https://github.com/cran/SARP.moodle
-	shallow = true
-	registered = true
